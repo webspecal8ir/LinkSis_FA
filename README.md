@@ -1,4 +1,4 @@
-#SBSS Bot
+#LinKSis_Team
 
 * **تمامی پلاگین ها فارسی میباشند**
 
@@ -70,6 +70,6 @@
 
 #It Will Be Edit Soon
 
-#Wiki Soon...
+#Wiki Www.WebSpeCal.Ir
 
-#Powered By [@SBSS_Team](telegram.me/Sbss_Team)
+#Powered By [@LinkSis_Team](telegram.me/LinKSis_Team)

@@ -248,15 +248,14 @@ function create_config( )
     Develpoed By:
     @AliSident
     Manager:
-    @Sident_b0t
+    @linksis_team
     Founder:
     @Alisident
     
     Special Thank To:
     Ali Sident
     WebSpecal
-    IM/-\N
-    Creed Is Dead
+    LinkSis_Team
     
 ]],
     help_text_realm = [[
@@ -343,9 +342,9 @@ _________________________________________
 _________________________________________
 _________________________________________
 _________________________________________
-ليست سودوها :@Cia_00_07
-@sina7sk
-@amirho3in
+ليست سودوها :@linksis_team
+@AliSident
+@linksis_teambot
 ]]
   }
   serialize_to_file(config, './data/config.lua')

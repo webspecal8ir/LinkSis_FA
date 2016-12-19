@@ -1,4 +1,4 @@
-#LinKSis_Team
+#Hostaval
 
 * **تمامی پلاگین ها فارسی میباشند**
 
@@ -72,4 +72,4 @@
 
 #Wiki Www.WebSpeCal.Ir
 
-#Powered By [@LinkSis_Team](telegram.me/LinKSis_Team)
+#Powered By [@Hostaval](telegram.me/hostaval)
